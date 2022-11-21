@@ -110,6 +110,13 @@ header a {
 	letter-spacing: 0.02em
 }
 
+.offer-ticket {
+	font-size: 30px;
+	margin-bottom: 19px;
+	margin-top: 20px;
+	letter-spacing: 0.02em
+}
+
 .btn {
 	display: block;
 	font-size: 17px;
