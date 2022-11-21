@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
 	font-size: 50px;
-	margin-bottom: 58px;
+	margin-bottom: 60px;
 }
 
 h3 {
@@ -46,7 +46,6 @@ ul, li {
 
 .container {
 	width: 1170px;
-	/*позиционирование по центру*/
 	margin: 0 auto; 
 }
 
@@ -141,6 +140,7 @@ header a {
 
 .desc-left, .desc-right {
 	width: 567px;
+	letter-spacing: 0.1em;
 }
 
 .gallery {
